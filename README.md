@@ -1,5 +1,6 @@
 # Artikelen homepagina
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+
+<img width="600" alt="Scherm­afbeelding 2024-01-27 om 09 35 26" src="https://github.com/Nazneen05x/back-to-static-site-generation/assets/112861261/aab122a5-3459-4405-90a9-faa83872969f">
 
 ## Inhoudsopgave
 
@@ -11,9 +12,11 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de toekomst kun je artikelen lezen over Visual Thinking gerelateerde artikelen (onderwerpen), die geschreven zijn door Charley Muhren of andere auteurs.
+
+> Bekijk hier de website: https://back-to-static-site-generation-phi.vercel.app/artikelen
+
+Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het idee erachter is dat mensen beter kunnen leren door schetsen te implementeren in hun leerproces. En om studenten te leren hun gedachten, en ideeën te visualiseren (docenten kunnen dit studenten leren d.m.v. de werkvormen op het platform). 
 
 
 ## Kenmerken 🖇️

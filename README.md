@@ -20,11 +20,27 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+## Kenmerken 🖇️
+<strong>`TOOLS 🧰`</strong>
+<ul>
+<li>VSCode</li>
+</ul>
 
-## Installatie
+<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
+<ul>
+<li>HTML</li>
+ <li>CSS</li>
+<li>Svelte</li>
+</ul>
 
-## Gebruik
+## Installatie  🛠️
+1. Fork deze leertaak.
+2. Code klonen naar Github Desktop.
+3. Code (map) open in VSCode of een andere editor.
+4. Terminal open.
+5. `Npm install` (typen in je terminal, daarna enter druken).
+6. `Npm run dev` (typen in je terminal, daarna enter druken).
+7. localhost:5173  (live link om artikelen homepagina te zien in je browser)
 
 ## Bronnen
 

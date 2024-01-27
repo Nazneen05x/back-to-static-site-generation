@@ -1,8 +1,4 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
+# Artikelen homepagina
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
@@ -19,7 +15,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Kenmerken
+
 ## Kenmerken 🖇️
 <strong>`TOOLS 🧰`</strong>
 <ul>
@@ -42,7 +38,14 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 6. `Npm run dev` (typen in je terminal, daarna enter druken).
 7. localhost:5173  (live link om artikelen homepagina te zien in je browser)
 
-## Bronnen
+## Bronnen 🌐
+
+
+<ul>
+<li>https://www.google.com</li>
+<li>https://svelte.dev/</li>
+</ul>
+
 
 ## Licentie
 
